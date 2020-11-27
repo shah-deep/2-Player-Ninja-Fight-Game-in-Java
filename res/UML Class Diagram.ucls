@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="game1.entities.Entity" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/entities/Entity.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="483" width="259" x="1464" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="game1.states.GameState" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/states/GameState.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="148" x="1323" y="450"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="game1.gfx.SpriteSheet" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/gfx/SpriteSheet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="213" x="855" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="game1.sounds.sounds" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/sounds/sounds.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="110" x="1550" y="2098"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="game1.display.count_down" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/display/count_down.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="198" x="894" y="1030"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="6" language="java" name="game1" project="2player Ninja Fight" file="/2player Ninja Fight/src/game1" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1142" y="165"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="7" language="java" name="game1.display.display" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/display/display.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="232" width="145" x="628" y="2098"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="game1.World" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/World.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="148" x="1252" y="650"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="9" language="java" name="game1.entities.creatures" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/entities/creatures" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="199" x="854" y="260"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="10" language="java" name="game1.display.count_down.Timeclass" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/display/count_down.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="223" x="894" y="1356"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="game1.states.State" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/states/State.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="195" width="149" x="1662" y="3632"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="12" language="java" name="game1.entities" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/entities" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="127" x="1182" y="355"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="13" language="java" name="game1.input.KeyManager" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/input/KeyManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="502" width="190" x="1826" y="2098"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="game1.launcher" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/launcher.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="130" x="344" y="1502"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="15" language="java" name="game1.display" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/display" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="123" x="689" y="355"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="16" language="java" name="game1.input" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/input" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="256" y="260"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="17" language="java" name="game1.game" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/game.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="556" width="202" x="873" y="1502"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="game1.restore_defaults" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/restore_defaults.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="211" x="1257" y="2098"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="game1.front" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/front.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="214" width="223" x="344" y="2098"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="20" language="java" name="game1.gfx" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/gfx" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="978" y="355"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="21" language="java" name="game1.entities.creatures.P_c3" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/entities/creatures/P_c3.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="340" width="234" x="1482" y="650"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="game1.entities.creatures.P_c2" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/entities/creatures/P_c2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="340" width="234" x="957" y="650"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="game1.gfx.ImageLoader" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/gfx/ImageLoader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="106" width="213" x="1108" y="2748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="game1.gfx.Assets" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/gfx/Assets.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="610" width="320" x="855" y="2098"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="25" language="java" name="game1.sounds" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/sounds" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="126" x="418" y="260"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="26" language="java" name="game1.states" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/states" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="55" width="122" x="1161" y="450"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="27" language="java" name="game1.entities.creatures.Creature" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/entities/creatures/Creature.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="321" width="177" x="1464" y="3271"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="game1.health" project="2player Ninja Fight" 
+    file="/2player Ninja Fight/src/game1/health.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="148" x="1524" y="1502"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="29">    
+    <bendpoint x="1130" y="260"/>    
+    <bendpoint x="1130" y="355"/>    
+    <bendpoint x="1130" y="450"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <association id="30">    
+    <bendpoint x="1147" y="1356"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="31" name="gm"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="34" name="P_3"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="36">    
+    <bendpoint x="1430" y="650"/>    
+    <bendpoint x="1430" y="1030"/>    
+    <bendpoint x="1451" y="1356"/>    
+    <bendpoint x="1451" y="1502"/>    
+    <bendpoint x="1519" y="2098"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="37">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="38" name="world"/>      
+      <multiplicity id="39" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="40">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="41">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="42">    
+    <bendpoint x="842" y="1502"/>    
+    <bendpoint x="842" y="1356"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="43">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="44">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="45">    
+    <bendpoint x="1339" y="260"/>    
+    <bendpoint x="1339" y="355"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="46">    
+    <bendpoint x="803" y="2098"/>    
+    <bendpoint x="803" y="2748"/>    
+    <bendpoint x="803" y="3271"/>    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="47" name="gameState"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="49">    
+    <bendpoint x="1325" y="1030"/>    
+    <bendpoint x="1388" y="1356"/>    
+    <bendpoint x="1409" y="1502"/>    
+    <bendpoint x="1498" y="2098"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="50">    
+    <bendpoint x="1767" y="450"/>    
+    <bendpoint x="1809" y="650"/>    
+    <bendpoint x="1851" y="1030"/>    
+    <bendpoint x="1922" y="1356"/>    
+    <bendpoint x="1994" y="1502"/>    
+    <bendpoint x="2067" y="2098"/>    
+    <bendpoint x="2067" y="2748"/>    
+    <bendpoint x="2067" y="3271"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="51">    
+    <bendpoint x="905" y="355"/>    
+    <bendpoint x="905" y="450"/>    
+    <bendpoint x="863" y="650"/>    
+    <bendpoint x="863" y="1030"/>    
+    <bendpoint x="863" y="1356"/>    
+    <bendpoint x="1105" y="1502"/>    
+    <bendpoint x="1205" y="2098"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="52">    
+    <bendpoint x="1872" y="260"/>    
+    <bendpoint x="1872" y="355"/>    
+    <bendpoint x="1872" y="450"/>    
+    <bendpoint x="1872" y="650"/>    
+    <bendpoint x="1872" y="1030"/>    
+    <bendpoint x="1872" y="1356"/>    
+    <bendpoint x="1872" y="1502"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="53">    
+    <bendpoint x="2088" y="260"/>    
+    <bendpoint x="2088" y="355"/>    
+    <bendpoint x="2088" y="450"/>    
+    <bendpoint x="2088" y="650"/>    
+    <bendpoint x="2088" y="1030"/>    
+    <bendpoint x="2088" y="1356"/>    
+    <bendpoint x="2088" y="1502"/>    
+    <bendpoint x="2088" y="2098"/>    
+    <bendpoint x="2088" y="2748"/>    
+    <bendpoint x="2088" y="3271"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <association id="54">    
+    <bendpoint x="1746" y="650"/>    
+    <bendpoint x="1723" y="1030"/>    
+    <bendpoint x="1681" y="1356"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="55" name="hc"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="57">    
+    <bendpoint x="1501" y="260"/>    
+    <bendpoint x="1501" y="355"/>    
+    <bendpoint x="1501" y="450"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="58">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="59">    
+    <bendpoint x="1367" y="1502"/>    
+    <bendpoint x="1367" y="1356"/>    
+    <bendpoint x="1304" y="1030"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <generalization id="60">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <dependency id="61">    
+    <bendpoint x="1671" y="3271"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <association id="62">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="63" name="keyManager"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="65">    
+    <bendpoint x="1409" y="1030"/>    
+    <bendpoint x="1514" y="1356"/>    
+    <bendpoint x="1744" y="1502"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="66">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="67">    
+    <bendpoint x="1210" y="1030"/>    
+    <bendpoint x="1210" y="1356"/>    
+    <bendpoint x="1210" y="1502"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="68">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="69">    
+    <bendpoint x="779" y="1030"/>    
+    <bendpoint x="700" y="1356"/>    
+    <bendpoint x="616" y="1502"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="70">    
+    <bendpoint x="1367" y="1030"/>    
+    <bendpoint x="1430" y="1356"/>    
+    <bendpoint x="1472" y="1502"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="71">    
+    <bendpoint x="1221" y="650"/>    
+    <bendpoint x="1231" y="1030"/>    
+    <bendpoint x="1189" y="1356"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="72">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <dependency id="73">    
+    <bendpoint x="1346" y="1030"/>    
+    <bendpoint x="1346" y="1356"/>    
+    <bendpoint x="1231" y="1502"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="74">    
+    <bendpoint x="1493" y="1030"/>    
+    <bendpoint x="1493" y="1356"/>    
+    <bendpoint x="1493" y="1502"/>    
+    <bendpoint x="1690" y="2098"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="75">    
+    <bendpoint x="1083" y="260"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <dependency id="76">    
+    <bendpoint x="637" y="355"/>    
+    <bendpoint x="637" y="450"/>    
+    <bendpoint x="616" y="650"/>    
+    <bendpoint x="612" y="1030"/>    
+    <bendpoint x="595" y="1356"/>    
+    <bendpoint x="595" y="1502"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="77">    
+    <bendpoint x="574" y="260"/>    
+    <bendpoint x="574" y="355"/>    
+    <bendpoint x="574" y="450"/>    
+    <bendpoint x="582" y="650"/>    
+    <bendpoint x="591" y="1030"/>    
+    <bendpoint x="616" y="1356"/>    
+    <bendpoint x="637" y="1502"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="78">    
+    <bendpoint x="823" y="260"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="79">    
+    <bendpoint x="842" y="355"/>    
+    <bendpoint x="800" y="450"/>    
+    <bendpoint x="758" y="650"/>    
+    <bendpoint x="716" y="1030"/>    
+    <bendpoint x="716" y="1356"/>    
+    <bendpoint x="767" y="1502"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="80">    
+    <bendpoint x="863" y="355"/>    
+    <bendpoint x="827" y="450"/>    
+    <bendpoint x="792" y="650"/>    
+    <bendpoint x="758" y="1030"/>    
+    <bendpoint x="779" y="1356"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="81">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <dependency id="82">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="83">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="84">    
+    <bendpoint x="1151" y="260"/>    
+    <bendpoint x="1151" y="355"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="85">    
+    <bendpoint x="1746" y="1030"/>    
+    <bendpoint x="1766" y="1356"/>    
+    <bendpoint x="1765" y="1502"/>    
+    <bendpoint x="1795" y="2098"/>    
+    <bendpoint x="1795" y="2748"/>    
+    <bendpoint x="1795" y="3271"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="86">    
+    <bendpoint x="884" y="355"/>    
+    <bendpoint x="884" y="450"/>    
+    <bendpoint x="884" y="650"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="87">    
+    <bendpoint x="1451" y="1030"/>    
+    <bendpoint x="1409" y="1356"/>    
+    <bendpoint x="1346" y="1502"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="88">    
+    <bendpoint x="842" y="1030"/>    
+    <bendpoint x="800" y="1356"/>    
+    <bendpoint x="746" y="1502"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="89">    
+    <bendpoint x="1168" y="1030"/>    
+    <bendpoint x="1168" y="1356"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="90" name="gm"/>      
+      <multiplicity id="91" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="92">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="93">    
+    <bendpoint x="1388" y="1030"/>    
+    <bendpoint x="1325" y="1356"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="94">    
+    <bendpoint x="947" y="355"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="95">    
+    <bendpoint x="926" y="355"/>    
+    <bendpoint x="926" y="450"/>    
+    <bendpoint x="926" y="650"/>    
+    <bendpoint x="1189" y="1030"/>    
+    <bendpoint x="1231" y="1356"/>    
+    <bendpoint x="1273" y="1502"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="96">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="18"/>  
+  </dependency>  
+  <dependency id="97">    
+    <bendpoint x="1451" y="650"/>    
+    <bendpoint x="1514" y="1030"/>    
+    <bendpoint x="1535" y="1356"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <dependency id="98">    
+    <bendpoint x="1830" y="260"/>    
+    <bendpoint x="1830" y="355"/>    
+    <bendpoint x="1830" y="450"/>    
+    <bendpoint x="1830" y="650"/>    
+    <bendpoint x="1830" y="1030"/>    
+    <bendpoint x="1808" y="1356"/>    
+    <bendpoint x="1786" y="1502"/>    
+    <bendpoint x="1774" y="2098"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="99">    
+    <bendpoint x="1767" y="1030"/>    
+    <bendpoint x="1787" y="1356"/>    
+    <bendpoint x="1807" y="1502"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="100">    
+    <bendpoint x="1711" y="2098"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="101">    
+    <bendpoint x="616" y="355"/>    
+    <bendpoint x="595" y="450"/>    
+    <bendpoint x="523" y="650"/>    
+    <bendpoint x="452" y="1030"/>    
+    <bendpoint x="382" y="1356"/>    
+    <bendpoint x="313" y="1502"/>    
+    <bendpoint x="313" y="2098"/>    
+    <bendpoint x="313" y="2748"/>    
+    <bendpoint x="313" y="3271"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="102">    
+    <bendpoint x="595" y="260"/>    
+    <bendpoint x="595" y="355"/>    
+    <bendpoint x="616" y="450"/>    
+    <bendpoint x="637" y="650"/>    
+    <bendpoint x="679" y="1030"/>    
+    <bendpoint x="679" y="1356"/>    
+    <bendpoint x="700" y="1502"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <generalization id="103">    
+    <bendpoint x="1252" y="1030"/>    
+    <bendpoint x="1252" y="1356"/>    
+    <bendpoint x="1252" y="1502"/>    
+    <bendpoint x="1226" y="2098"/>    
+    <bendpoint x="1351" y="2748"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <dependency id="104">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="105">    
+    <bendpoint x="1172" y="260"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <association id="106">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="107" name="sound"/>      
+      <multiplicity id="108" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="109">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="110" name="currentState"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="112">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="113">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="114">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="20"/>  
+  </dependency>  
+  <association id="115">    
+    <bendpoint x="824" y="3271"/>    
+    <bendpoint x="824" y="2748"/>    
+    <bendpoint x="824" y="2098"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="116" name="game"/>      
+      <multiplicity id="117" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="118">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="19"/>  
+  </dependency>  
+  <generalization id="119">    
+    <bendpoint x="1767" y="650"/>    
+    <bendpoint x="1809" y="1030"/>    
+    <bendpoint x="1888" y="1356"/>    
+    <bendpoint x="1967" y="1502"/>    
+    <bendpoint x="2046" y="2098"/>    
+    <bendpoint x="2046" y="2748"/>    
+    <bendpoint x="2046" y="3271"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <dependency id="120">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="121">    
+    <bendpoint x="905" y="650"/>    
+    <bendpoint x="821" y="1030"/>    
+    <bendpoint x="821" y="1356"/>    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <nesting id="122">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <dependency id="123">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="124">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="125">    
+    <bendpoint x="658" y="355"/>    
+    <bendpoint x="658" y="450"/>    
+    <bendpoint x="658" y="650"/>    
+    <bendpoint x="658" y="1030"/>    
+    <bendpoint x="658" y="1356"/>    
+    <bendpoint x="658" y="1502"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="126">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="127" name="P_2"/>      
+      <multiplicity id="128" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="129">    
+    <bendpoint x="1430" y="1502"/>    
+    <bendpoint x="1472" y="1356"/>    
+    <bendpoint x="1472" y="1030"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <dependency id="130">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="131">    
+    <bendpoint x="737" y="450"/>    
+    <bendpoint x="737" y="650"/>    
+    <bendpoint x="737" y="1030"/>    
+    <bendpoint x="758" y="1356"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <dependency id="132">    
+    <bendpoint x="1732" y="2098"/>    
+    <bendpoint x="1774" y="2748"/>    
+    <bendpoint x="1774" y="3271"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="133">    
+    <bendpoint x="800" y="1030"/>    
+    <bendpoint x="737" y="1356"/>    
+    <bendpoint x="679" y="1502"/>    
+    <bendpoint x="597" y="2098"/>    
+    <bendpoint x="597" y="2748"/>    
+    <bendpoint x="597" y="3271"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <association id="134">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="135" name="display"/>      
+      <multiplicity id="136" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="137">    
+    <bendpoint x="1788" y="260"/>    
+    <bendpoint x="1788" y="355"/>    
+    <bendpoint x="1788" y="450"/>    
+    <bendpoint x="1788" y="650"/>    
+    <bendpoint x="1788" y="1030"/>    
+    <bendpoint x="1745" y="1356"/>    
+    <bendpoint x="1723" y="1502"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <generalization id="138">    
+    <bendpoint x="1702" y="1030"/>    
+    <bendpoint x="1702" y="1356"/>    
+    <bendpoint x="1702" y="1502"/>    
+    <bendpoint x="1753" y="2098"/>    
+    <bendpoint x="1753" y="2748"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
