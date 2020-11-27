@@ -1,5 +1,5 @@
 # 2 Player Ninja Fight Game in Java
-This a desktop game made in Java. It uses object oriented programming principles. 
+This a small 28MB desktop game made in Java. It uses object oriented programming principles. 
 
 Player keyboard controls are as follows:
 
